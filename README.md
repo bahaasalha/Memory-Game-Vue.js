@@ -9,7 +9,6 @@
 
 ## Demo 
 * [Memory Game](https://memorygame-vue.netlify.app/)
-* [Sample Game Video](http://www.youtube.com/watch?v=XvkVx17BW4Q)
 
 ## Used Technologies
 * Vue JS
@@ -17,26 +16,5 @@
 * SCSS - CSS 3
 
 <hr>
-
-### Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
